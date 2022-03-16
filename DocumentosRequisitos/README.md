@@ -1,6 +1,7 @@
-# 2TDSR-2022
-Cleber
-aluisio 
-serginho xulapa
+# 2TDSR-2022Ala 
+zagueiro 
+atacante
+ala
+
 # Sistema de gerenciamento de estoque - versão 01
 
